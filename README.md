@@ -96,7 +96,7 @@ Bekijk het ontwerp en de gebruikersflow via figma:
 ## 🚀 Installatie
 
 ```bash
-git clone https://github.com/jouwgebruikersnaam/mtg-project.git
+git clone https://github.com/zaidaelaissati/Magic-The-Gathering.git
 cd mtg-project
 npm install
 npm start
